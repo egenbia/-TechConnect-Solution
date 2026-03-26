@@ -58,13 +58,13 @@ quadrantChart
     quadrant-3 Contencao
     quadrant-4 Baixa Prioridade
 
-    Falha na autenticacao de usuario: [0.90, 0.70]
-    Falha na recuperacao de senha: [0.80, 0.65]
-    Falha no CRUD de empresas: [0.85, 0.50]
-    Falha no Upload de logotipos: [0.60, 0.58]
-    Falha nos relatorios: [0.40, 0.42]
-    Falha no painel administrativo: [0.75, 0.60]
-    Interface quebrada: [0.95, 0.77]
-    Falha no banco de dados: [0.55, 0.48]
+    Interface quebrada: [0.95, 0.90]
+    Falha na autenticacao de usuario: [0.85, 0.78]
+    Falha na recuperacao de senha: [0.72, 0.88]
+    Falha no painel administrativo: [0.62, 0.72]
+    Falha no Upload de logotipos: [0.55, 0.62]
+    Falha no CRUD de empresas: [0.80, 0.55]
+    Falha no banco de dados: [0.35, 0.40]
+    Falha nos relatorios: [0.22, 0.28]
 ```
 
