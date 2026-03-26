@@ -45,24 +45,26 @@ Implantação final :j1, 2026-06-13, 7d
 Entrega ao cliente :j2, after j1, 5d
 Marco E6 - Entrega final :milestone, after j2, 0d
 ```
+
+
 ```mermaid
 quadrantChart
-    title Situações de atenção
+    title Situacoes de atencao
     x-axis Baixo Impacto --> Alto Impacto
     y-axis Baixa Probabilidade --> Alta Probabilidade
 
-    quadrant-1 🚨 Prioridade Máxima
-    quadrant-2 ⚠️ Monitorar 
-    quadrant-3 📌 Contenção
-    quadrant-4 ✅ Baixa Prioridade
+    quadrant-1 Prioridade Maxima
+    quadrant-2 Monitorar de Perto
+    quadrant-3 Contencao
+    quadrant-4 Baixa Prioridade
 
-Falha na autenticação de usuário: [0.90, 0.70] 
-Falha na recuperação de senha: [0.80, 0.65]
-Falha no CRUD de empresas: [0.85, 0.50]
-Falha no Upload de logotipos: [0.50, 0.65]
-Falha nos relatórios: [0.40, 0.50]
-Falha no painel administrativo: [0.75, 0.60]
-Interface quebrada: [0.95, 0.65]
-Falha no banco de dados: [0.80, 0.70]
+    Falha na autenticacao de usuario: [0.90, 0.70]
+    Falha na recuperacao de senha: [0.80, 0.65]
+    Falha no CRUD de empresas: [0.85, 0.50]
+    Falha no Upload de logotipos: [0.50, 0.65]
+    Falha nos relatorios: [0.40, 0.50]
+    Falha no painel administrativo: [0.75, 0.60]
+    Interface quebrada: [0.95, 0.65]
+    Falha no banco de dados: [0.80, 0.70]
 ```
 
