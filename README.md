@@ -4,8 +4,8 @@ title Sistema de Cadastro de Empresas Parceiras - TechConnect-Solution
     dateFormat  YYYY-MM-DD
     axisFormat  %d/%m
 
-section PLANEJAMENTO (Analista)
-Levantamento de requisitos :a1, 2026-01-06, 10d
+section PLANEJAMENTO
+Levantamento de requisitos :a1, 2026-01-07, 10d
 Documentação Funcional :a2, after a1, 7d
 
 section DESIGN
@@ -61,10 +61,10 @@ quadrantChart
     Falha na autenticacao de usuario: [0.90, 0.70]
     Falha na recuperacao de senha: [0.80, 0.65]
     Falha no CRUD de empresas: [0.85, 0.50]
-    Falha no Upload de logotipos: [0.50, 0.65]
-    Falha nos relatorios: [0.40, 0.50]
+    Falha no Upload de logotipos: [0.60, 0.58]
+    Falha nos relatorios: [0.40, 0.42]
     Falha no painel administrativo: [0.75, 0.60]
-    Interface quebrada: [0.95, 0.65]
-    Falha no banco de dados: [0.80, 0.70]
+    Interface quebrada: [0.95, 0.77]
+    Falha no banco de dados: [0.55, 0.48]
 ```
 
